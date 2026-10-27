@@ -1,0 +1,6 @@
+{
+  "name": "AI Code Explainer",
+  "description": "Beginner-friendly source code explainer powered by Gemini AI. Understand Java, Python, C, C++, and JavaScript with line-by-line breakdowns, bug detection, and code summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
